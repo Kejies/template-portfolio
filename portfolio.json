@@ -51,19 +51,19 @@
             {
                 "title": "Project 1",
                 "image": "project_1.png",
-                "viewLink": "https://example.com/",
+                "viewLink": "/",
                 "description": "Basic"
             },
             {
                 "title": "Project 2",
                 "image": "project_2.png",
-                "viewLink": "https://example.com/",
+                "viewLink": "/",
                 "description": "Basic"
             },
             {
                 "title": "Project 3",
                 "image": "project_3.png",
-                "viewLink": "https://example.com/",
+                "viewLink": "/",
                 "description": "Basic"
             }
         ]
